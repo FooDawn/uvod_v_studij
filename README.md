@@ -19,3 +19,7 @@ https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/c
 
 SSH
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
+
+ https://discord.gg/8KjkTzVGjw 
+ https://discord.gg/cgy8A6f
